@@ -147,5 +147,5 @@ This project is inspired from many other similar projects.
 - [gatsby-theme-blog-with-github](https://github.com/mddanishyusuf/gatsby-theme-blog-with-github)
 - [utterances](https://github.com/utterance/utterances)
 
-Blog: (https://dev.to/mrsaeeddev/create-your-your-personal-blog-using-reactjs-and-github-issues-in-less-than-10-min-3bg8)
+Blog: (https://dev.to/mrsaeeddev/create-your-your-personal-blog-using-reactjs-and-github-issues-in-less-than-10-min-3bg8) </br>
 Github: (https://github.com/saadpasta/react-blog-github/)
